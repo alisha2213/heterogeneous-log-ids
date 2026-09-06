@@ -1,6 +1,4 @@
-# heterogeneous-log-ids
-
-## Heterogeneous Log-Based Intrusion Detection System
+# Heterogeneous Log-Based Intrusion Detection System
 
 A hybrid intrusion detection pipeline that fuses structured network traffic features with unstructured log text, compresses the combined representation through a deep autoencoder, and classifies attacks using a stacked ensemble of tree-based and linear models.
 
