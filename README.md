@@ -47,16 +47,16 @@ The stacking ensemble misclassified only 3 out of 12,598 test samples (2 false n
 ## Visualizations
 
 ### Autoencoder Training Loss
-![Autoencoder Training Loss](images_IDS/autoencoder_loss.png)
+![Autoencoder Training Loss](images_IDS/autoencoder_loss.jpeg)
 
 ### Confusion Matrices — Stacking vs. Voting
-![Confusion Matrices](images_IDS/confusion_matrices.png)
+![Confusion Matrices](images_IDS/confusion_matrices.jpeg)
 
 ### ROC Curve — Stacking vs. Voting
-![ROC Curve](images_IDS/roc_curve.png)
+![ROC Curve](images_IDS/roc_curve.jpeg)
 
 ### Full Model Comparison
-![Model Comparison Table](images_IDS/model_comparison.png)
+![Model Comparison Table](images_IDS/model_comparison.jpeg)
 
 ## Tools Used
 
